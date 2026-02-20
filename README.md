@@ -52,7 +52,6 @@ Based in Iran
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaDadafarid&show_icons=true&count_private=true&theme=material-palenight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HamidrezaDadafarid&theme=material-palenight" />
 </p>
 
