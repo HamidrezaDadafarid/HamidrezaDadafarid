@@ -5,7 +5,7 @@
 
 <p>
 Backend Engineer | Go | Distributed Systems |
-Based in Iran
+Based in Iran [![Iran](https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg)](#)
 </p>
 
 ---
@@ -44,8 +44,8 @@ Based in Iran
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 
 ### 🧰 Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](http://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
