@@ -55,7 +55,6 @@ Based in Iran <img style="width:15px; height:15px" src="https://flagofiran.com/f
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaDadafarid&show_icons=true&theme=material-palenight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HamidrezaDadafarid&theme=material-palenight" />
 </p>
 
