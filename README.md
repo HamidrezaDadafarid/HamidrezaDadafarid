@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-Software Engineer 👨🏻‍💻 |
+Backend Engineer | Go | Distributed Systems |
 Based in Iran
 </p>
 
@@ -14,6 +14,8 @@ Based in Iran
 
 - 🎓 BSc Computer Engineering - Amirkabir University of Technology (2026)
 - 💼 Software Engineer @ Snapp!
+- ⚡ Interested in **distributed systems, cloud native, and observability**
+- 🧠 Currently deepening knowledge in **Kubernetes internals & system design**
 
 ---
 
@@ -52,6 +54,7 @@ Based in Iran
 ## 📊 GitHub Stats
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaDadafarid&show_icons=true&theme=material-palenight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HamidrezaDadafarid&theme=material-palenight" />
 </p>
 
@@ -81,7 +84,7 @@ Based in Iran
   <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
 </a>
 <a href="https://www.twitch.tv/theycallmehamidreza">
-  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white/>
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/>
 </a>
 
 ---
