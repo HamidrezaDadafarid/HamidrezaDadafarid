@@ -4,8 +4,9 @@
 </h1>
 
 <p>
-  Backend Engineer | Go | Distributed Systems |
-  Based in Iran <img style="width:20px; height:20px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
+Backend Engineer | Go | Distributed Systems |
+<br>
+Based in Iran <img style="width:15px; height:15px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
 </p>
 
 ---
