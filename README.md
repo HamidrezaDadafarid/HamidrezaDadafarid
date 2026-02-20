@@ -1,14 +1,12 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  Hi there, I'm Hamidreza Dadafarid
+  Hi there, I'm Hamidreza Dadafarid (A.K.A AitchDee)
 </h1>
 
 <p>
 Software Engineer 👨🏻‍💻 |
 Based in Iran
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=520&lines=FinTech+Engineer+%7C+Python+Specialist;Algorithmic+Trading+Enthusiast;Blockchain+%7C+NLP+Researcher;Open+to+Banking+Opportunities)](https://git.io/typing-svg)
 
 ---
 
@@ -56,22 +54,6 @@ Based in Iran
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaDadafarid&show_icons=true&count_private=true&theme=material-palenight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HamidrezaDadafarid&theme=material-palenight" />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamidrezaDadafarid&theme=dracula&no-bg=true&row=1" />
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HamidrezaDadafarid&theme=dracula&bg_color=2B2D3D&color=B994E6" />
 </p>
 
 ---
