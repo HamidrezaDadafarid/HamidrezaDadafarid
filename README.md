@@ -14,7 +14,7 @@ Based in Iran <img style="vertical-align:middle; height:18px" src="https://flago
 ## 🚀 About Me
 
 - 🎓 BSc Computer Engineering - Amirkabir University of Technology (2026)
-- 💼 Software Engineer @ <img style="vertical-align:middle; height:16px" src="https://web-cdn.snapp.ir/snapp-website/icons/snappTextLogo.svg"/>
+- 💼 Software Engineer @ <img style="vertical-align:middle; height:14px" src="https://web-cdn.snapp.ir/snapp-website/icons/snappTextLogo.svg"/>
 - ⚡ Interested in **distributed systems, cloud native, and observability**
 - 🧠 Currently deepening knowledge in **Kubernetes internals & system design**
 
