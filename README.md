@@ -6,7 +6,7 @@
 <p>
 Backend Engineer | Go | Distributed Systems |
 <br>
-Based in Iran <img style="vertical-align:middle; height:18px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
+Based in Iran <img style="vertical-align:middle; height:13px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
 </p>
 
 ---
