@@ -14,7 +14,7 @@ Based in Iran <img style="width:15px; height:15px" src="https://flagofiran.com/f
 ## 🚀 About Me
 
 - 🎓 BSc Computer Engineering - Amirkabir University of Technology (2026)
-- 💼 Software Engineer @ Snapp!
+- 💼 Software Engineer @ Snapp! <img style="width:15px; height:15px" src="https://web-cdn.snapp.ir/snapp-website/icons/snappTextLogo.svg"/>
 - ⚡ Interested in **distributed systems, cloud native, and observability**
 - 🧠 Currently deepening knowledge in **Kubernetes internals & system design**
 
