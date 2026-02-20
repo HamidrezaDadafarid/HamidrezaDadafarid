@@ -6,15 +6,15 @@
 <p>
 Backend Engineer | Go | Distributed Systems |
 <br>
-Based in Iran <img style="vertical-align:middle; height:13px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
+Based in Iran <img style="vertical-align:middle; height:12px" src="https://flagofiran.com/files/flag-of-iran-emoji-toss-face.svg"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
+- 💼 Software Engineer @ <img style="vertical-align:middle; height:12px" src="https://web-cdn.snapp.ir/snapp-website/icons/snappTextLogo.svg"/>
 - 🎓 BSc Computer Engineering - Amirkabir University of Technology (2026)
-- 💼 Software Engineer @ <img style="vertical-align:middle; height:13px" src="https://web-cdn.snapp.ir/snapp-website/icons/snappTextLogo.svg"/>
 - ⚡ Interested in **distributed systems, cloud native, and observability**
 - 🧠 Currently deepening knowledge in **Kubernetes internals & system design**
 
